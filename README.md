@@ -41,7 +41,6 @@ Hello! I'm [Shubhamsinh Rahevar](https://shubhamsinh.github.io), a passionate an
 <code><img height="20" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/postman-%2335495e.svg?style=for-the-badge&logo=postman&logoColor=%234FC08D"></code>
 <code><img height="20" src="https://img.shields.io/badge/github-%238DD6F9.svg?style=for-the-badge&logo=github&logoColor=black"></code>
-
 <code><img height="20" src="https://img.shields.io/badge/laravel-black?style=for-the-badge&logo=laravel&logoColor=white"></code>
 
 
