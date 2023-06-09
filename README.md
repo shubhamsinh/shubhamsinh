@@ -2,7 +2,9 @@
 
 <!-- ![bannerShubham](https://github.com/shubhamsinh/shubhamsinh/assets/68784553/01393dc6-a0fa-4944-9b79-9c171a762693) -->
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/shubhamsinh)
+<!-- [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/shubhamsinh) -->
+
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
 
