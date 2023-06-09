@@ -1,11 +1,11 @@
 ### Hi there 👋
-<!-- <img src=”[https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png](https://github.com/shubhamsinh/shubhamsinh/assets/68784553/1287a179-7293-4a8a-b724-549ea8226c07)" alt=”my banner”> -->
+<!-- ![bannerShubham](https://github.com/shubhamsinh/shubhamsinh/assets/68784553/01393dc6-a0fa-4944-9b79-9c171a762693) -->
 
 
 
 <p align=”center”>
 
-<img width=”200" height=”200" src=”https://user-images.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
+<img width=”200" height=”200" src=”https://github-production-user-asset-6210df.s3.amazonaws.com/68784553/244612948-01393dc6-a0fa-4944-9b79-9c171a762693.jpg" alt=”my banner”>
 
 </p>
 
