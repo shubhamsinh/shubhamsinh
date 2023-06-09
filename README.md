@@ -11,14 +11,24 @@
 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=shubhamsinh alt=santosharron /> </p>
 
-
+<br />
 
 
 Hello! I'm [Shubhamsinh Rahevar](https://shubhamsinh.github.io), a passionate and experienced mobile app developer specializing in creating innovative and user-friendly applications. With a strong background in software development and a deep understanding of mobile technologies, I strive to deliver high-quality apps that meet and exceed client expectations.
 
-<!-- ![bannerShubham](https://github.com/shubhamsinh/shubhamsinh/assets/68784553/01393dc6-a0fa-4944-9b79-9c171a762693) -->
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/shubhamsinh)
+<img align="right" alt="GIF" src="https://epicprogrammerassets.netlify.app/Assets/code.gif?raw=true" width="500" height="320" style="border-radius:50%" />
+  
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: [Contact Us](https://epicprogrammer.org/contact);
+- 📝 [Blog](https://epicprogrammer.org/)
+  
+
+#### Top Technologies
+
+<!-- TODO: Make technologies links takes you to repositories -->
+
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Flutter-007acc?style=for-the-badge&labelColor=black&logo=flutter&logoColor=007acc)](#) [![Flutter Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 
 
 
