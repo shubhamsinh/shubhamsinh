@@ -1,13 +1,8 @@
 ### Hi there 👋
 
+<!-- ![bannerShubham](https://github.com/shubhamsinh/shubhamsinh/assets/68784553/01393dc6-a0fa-4944-9b79-9c171a762693) -->
 
-
-
-<p align=”center”>
-
-<img width=”200" height=”200" src=”![bannerShubham](https://github.com/shubhamsinh/shubhamsinh/assets/68784553/01393dc6-a0fa-4944-9b79-9c171a762693)" alt=”my banner”>
-
-</p>
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/shubhamsinh)
 
 
 
