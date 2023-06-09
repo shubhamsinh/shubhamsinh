@@ -1,6 +1,15 @@
 ### Hey there ! <img src="https://github.com/shubhamsinh/shubhamsinh/assets/68784553/1054b625-d88a-45d7-af96-2b3c8a14927b" width="20" height="20">
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/shubhamsinh)  	      [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/rshubhamsinh)
+<a href="https://twitter.com/RShubhamsinh">
+  <img align="left" alt="Epic Programmer" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" />
+</a>
+
+
+<a href="https://www.linkedin.com/in/shubhamsinh/">
+  <img align="left" alt="Epic Programmer | YouTube" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+</a>
+
+<p align=left> <img src=https://komarev.com/ghpvc/?username=santosharron alt=santosharron /> </p>
 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=shubhamsinh alt=santosharron /> </p>
 
