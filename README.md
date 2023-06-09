@@ -33,15 +33,15 @@ Hello! I'm [Shubhamsinh Rahevar](https://shubhamsinh.github.io), a passionate an
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://img.shields.io/badge/dart-%23E34F26.svg?style=for-the-badge&logo=dart&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/javascript-%23007ACC.svg?style=for-the-badge&logo=javascript&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"></code>
-<code><img height="20" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"></code>
+<code><img height="20" src="https://img.shields.io/badge/java-%23000000.svg?style=for-the-badge&logo=java&logoColor=#00C7B7"></code>
 <code><img height="20" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"></code>
-<code><img height="20" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"></code>
-<code><img height="20" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/postman-%2335495e.svg?style=for-the-badge&logo=postman&logoColor=%234FC08D"></code>
+<code><img height="20" src="https://img.shields.io/badge/github-%238DD6F9.svg?style=for-the-badge&logo=github&logoColor=black"></code>
+<code><img height="20" src="https://img.shields.io/badge/laravel-%2338B2AC.svg?style=for-the-badge&logo=laravel-css&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"></code>
 
 
