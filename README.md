@@ -1,5 +1,4 @@
-### Hi there !
-<img src="https://github.com/shubhamsinh/shubhamsinh/assets/68784553/1054b625-d88a-45d7-af96-2b3c8a14927b" width="100" height="100">
+### Hi there ! <img src="https://github.com/shubhamsinh/shubhamsinh/assets/68784553/1054b625-d88a-45d7-af96-2b3c8a14927b" width="20" height="20">
 
 <!-- ![bannerShubham](https://github.com/shubhamsinh/shubhamsinh/assets/68784553/01393dc6-a0fa-4944-9b79-9c171a762693) -->
 
