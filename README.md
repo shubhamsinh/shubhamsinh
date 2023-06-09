@@ -45,6 +45,10 @@ Hello! I'm [Shubhamsinh Rahevar](https://shubhamsinh.github.io), a passionate an
 
 
 
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=shubhamsinh)](https://github.com/yushi1007)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamsinh&layout=compact)](https://github.com/yushi1007)
+
 <!--
 **shubhamsinh/shubhamsinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
