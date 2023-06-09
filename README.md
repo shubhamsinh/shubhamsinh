@@ -20,8 +20,8 @@ Hello! I'm [Shubhamsinh Rahevar](https://shubhamsinh.github.io), a passionate an
 <img align="right" alt="GIF" src="https://epicprogrammerassets.netlify.app/Assets/code.gif?raw=true" width="500" height="320" style="border-radius:50%" />
   
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [Contact Us](https://epicprogrammer.org/contact);
-- 📝 [Blog](https://epicprogrammer.org/)
+- 📫 How to reach me: [Contact Us](https://shubhamsinh.github.io/#contact);
+<!-- - 📝 [Blog](https://epicprogrammer.org/) -->
   
 
 #### Top Technologies
