@@ -9,9 +9,8 @@
   <img align="left" alt="Epic Programmer | YouTube" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
 </a>
 
-<p align=left> <img src=https://komarev.com/ghpvc/?username=santosharron alt=santosharron /> </p>
-
 <p align=left> <img src=https://komarev.com/ghpvc/?username=shubhamsinh alt=santosharron /> </p>
+
 
 
 
