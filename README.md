@@ -43,7 +43,9 @@ Hello! I'm [Shubhamsinh Rahevar](https://shubhamsinh.github.io), a passionate an
 <code><img height="20" src="https://img.shields.io/badge/github-%238DD6F9.svg?style=for-the-badge&logo=github&logoColor=black"></code>
 <code><img height="20" src="https://img.shields.io/badge/laravel-black?style=for-the-badge&logo=laravel&logoColor=white"></code>
 
-
+<br />
+<br />
+<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamsinh&layout=compact&theme=transparent)](https://github.com/yushi1007)
 
