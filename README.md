@@ -1,6 +1,6 @@
 ### Hey there ! <img src="https://github.com/shubhamsinh/shubhamsinh/assets/68784553/1054b625-d88a-45d7-af96-2b3c8a14927b" width="20" height="20">
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/shubhamsinh)  	[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/rshubhamsinh)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/shubhamsinh)  	      [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/rshubhamsinh)
 
 <!-- ![bannerShubham](https://github.com/shubhamsinh/shubhamsinh/assets/68784553/01393dc6-a0fa-4944-9b79-9c171a762693) -->
 
