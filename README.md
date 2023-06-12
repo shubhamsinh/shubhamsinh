@@ -37,6 +37,7 @@ Hello! I'm [Shubhamsinh Rahevar](https://shubhamsinh.github.io), a passionate an
 <code><img height="20" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/javascript-%23007ACC.svg?style=for-the-badge&logo=javascript&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"></code>
+<code><img height="20" src="https://img.shields.io/badge/dart-%23039BE5.svg?style=for-the-badge&logo=dart"></code>
 <code><img height="20" src="https://img.shields.io/badge/java-%23000000.svg?style=for-the-badge&logo=java&logoColor=#00C7B7"></code>
 <code><img height="20" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/postman-%2335495e.svg?style=for-the-badge&logo=postman&logoColor=%234FC08D"></code>
