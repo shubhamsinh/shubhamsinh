@@ -47,7 +47,7 @@ Hello! I'm [Shubhamsinh Rahevar](https://shubhamsinh.github.io), a passionate an
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamsinh&layout=compact&theme=transparent)](https://github.com/yushi1007)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamsinh&layout=compact&theme=transparent)](https://github.com/shubhamsinh)
 
 
 
